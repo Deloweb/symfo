@@ -1,0 +1,4 @@
+App\Entity\SchoolYear:
+  school_year_{1..6}:
+    name: <words(3, true)>
+

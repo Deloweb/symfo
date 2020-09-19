@@ -1,0 +1,5 @@
+App\Entity\Project:
+  project_{1..10}:
+    name: <words(5, true)>
+    description: <text(300)>
+    students: "<3>x @students*"
